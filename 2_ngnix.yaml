@@ -16,7 +16,7 @@ spec:
     metadata:
       labels:
         app: nginx
-        chaos: blast-at-dev-conf
+        chaos: devex-roundtable
     spec:
       containers:
         - image: nginx

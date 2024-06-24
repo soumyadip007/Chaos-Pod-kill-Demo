@@ -15,4 +15,4 @@ spec:
       namespaces:
         - chaos-sandbox
       labelSelectors:
-        chaos: blast-at-dev-conf
+        chaos: devex-roundtable
